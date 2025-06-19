@@ -60,5 +60,5 @@ Este projeto foi desenvolvido como parte de uma tarefa técnica para a vaga de D
 2. **Clonar o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/propet-api.git
-cd propet-api
+git clone https://github.com/Raphael-Azevedo/teste-tecnico-backend-jr-csharp-1
+
