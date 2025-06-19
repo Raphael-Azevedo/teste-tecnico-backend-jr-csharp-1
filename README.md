@@ -62,3 +62,12 @@ Este projeto foi desenvolvido como parte de uma tarefa técnica para a vaga de D
 ```bash
 git clone https://github.com/Raphael-Azevedo/teste-tecnico-backend-jr-csharp-1
 
+## 🔐 Login de Administrador (Admin)
+
+Para facilitar os testes, um usuário administrador já está pré-cadastrado:
+
+```json
+{
+  "username": "admin",
+  "password": "123456"
+}
